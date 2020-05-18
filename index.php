@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>PHP SNACKS</h2>
+    <h2>PHP SNACK 1</h2>
     <?php
     $matches = [
         [
@@ -28,7 +28,7 @@
             "away_points" => rand(90,200),
         ],
         [
-            'home_name' => " Philadelphia 76",
+            'home_name' => " Philadelphia SixErs",
             'away_name' => "Boston Celtics ",
             'home_points' => rand(90,200),
             'away_points' => rand(90,200),
